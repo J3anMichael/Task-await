@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-await", "Task-await\Task-await.csproj", "{FE654C6A-48A2-4273-B133-B76450E54C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE654C6A-48A2-4273-B133-B76450E54C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE654C6A-48A2-4273-B133-B76450E54C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE654C6A-48A2-4273-B133-B76450E54C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE654C6A-48A2-4273-B133-B76450E54C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D9BC0EC-2B05-4E37-9763-39927CBAA3F4}
+	EndGlobalSection
+EndGlobal
